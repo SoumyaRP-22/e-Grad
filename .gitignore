@@ -1,0 +1,13 @@
+# Ignore Database Credentials
+src/main/java/db.properties
+**/db.properties
+
+# Ignore Compiled Java Classes
+*.class
+target/
+build/
+
+# Ignore IDE Configuration folders (if you use them)
+.vscode/
+.idea/
+*.eclipse
